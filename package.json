@@ -1,0 +1,23 @@
+{
+  "name": "web_monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node main.js"
+  },
+  "author": "poxiaoge",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio":"latest",
+    "async":"latest",
+    "eventproxy":"latest",
+    "request":"latest",
+    "superagent":"latest",
+    "encoding":"latest",
+    "iconv-lite": "latest",
+    "superagent-charset":"latest",
+    "express":"latest"
+  }
+}
